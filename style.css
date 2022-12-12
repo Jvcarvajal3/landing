@@ -1,0 +1,71 @@
+h1{
+  text-align: center;
+}
+
+.banner{
+  text-align: center;
+  padding: 80px;
+}
+
+.text{
+  text-align: center;
+  background-image: url("images/FONDO.jpeg");
+  background-size: cover;
+  padding: 2px;
+  background-position: center;
+  font-style: initial;
+  font-size: medium;
+}
+
+.container{
+  text-align: center;
+  font-style: italic;
+  background-image: url("images/FONDO.jpeg");
+  background-size: cover;
+  padding: 2px;
+  background-position: center;
+  font-weight: bold;
+}
+
+.tittle{
+  text-align: center;
+  background-image: url("images/DDD.jpg");
+  background-size: cover;
+  padding: 35px;
+  background-position: center;
+  color: hotpink;
+  font-family: fantasy;
+  font-size: x-large;
+  padding-top: auto;
+}
+
+h3{
+  color: orange;
+  font-style: inherit;
+  font-weight: bolder;
+}
+
+.run{
+  text-align: center;
+  padding:-20px;
+  box-shadow: 2px 6px 10px orange;
+}
+
+.pay{
+  text-align: center;
+  padding: -20px;
+  box-shadow: 2px 6px 10px orange;
+}
+
+.faster{
+  text-align: center;
+  padding: -20px;
+  box-shadow: 2px 6px 10px orange;
+}
+
+.end{
+text-align: center;
+font-style: italic;
+font-weight: bold;
+color: black;
+}
